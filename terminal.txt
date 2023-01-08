@@ -1,0 +1,17 @@
+cd
+ls
+mkdir = to make directory or make a folder
+echo
+touch = to make a file
+{cd<filename>}
+touch {001..100}
+{echo "asdfasd">}
+cat = to display the contents in the folder
+txt
+rm
+rm -rf = to remove folder
+pwd
+whoami 
+rm * = remove all files 
+rm -rf * = remove everything 
+vim = to make a note
